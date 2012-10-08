@@ -1,7 +1,9 @@
 /*
- * Copyright (C) 2012,  Haridas N <haridas.nss@gmail.com>
+   This file is part of google-app-scripts
 
-     This program is free software: you can redistribute it and/or modify
+   Copyright (C) 2012,  Haridas N <haridas.nss@gmail.com>
+
+     google-app-scripts is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
      any later version.
